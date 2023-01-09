@@ -7,4 +7,4 @@
 
 ---
 
-Prácticas realizadas por [María Ángeles Hita Cantón](https://github.com/shesaesir)
+Prácticas realizadas por [María Ángeles Hita Cantón](https://github.com/shesaesir/SOR-MEDAC)
